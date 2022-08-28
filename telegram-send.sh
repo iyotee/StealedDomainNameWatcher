@@ -1,7 +1,9 @@
 #!/bin/bash
     
-GROUP_ID=1011416325
-BOT_TOKEN=5777953662:AAEKEhoJFO7EC7BdEBBisLW3bkdnDaM3zB4
+GROUP_ID=YOUR_GROUP_ID
+BOT_TOKEN=YOUR_TOKEN
+
+# get your channel ID with this api request https://api.telegram.org/bot<YOURTOKEN_HERE>/getUpdates
 
 # this 3 checks (if) are not necessary but should be convenient
 if [ "$1" == "-h" ]; then
