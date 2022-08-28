@@ -4,7 +4,7 @@
   <h3 align="center">StealedDomainNameWatcher</h3>
 
   <p align="center">
-    StealedDomainNameWatcher is a batch tool that automatically watch if a domain name you own is stealed
+    StealedDomainNameWatcher is a batch tool that automatically watch if a domain name you own is stealed and send the result to a Telegram Bot
     <br/>
     <br/>
     <a href="https://github.com/Iyotee/StealedDomainNameWatcher"><strong>Explore the docs »</strong></a>
