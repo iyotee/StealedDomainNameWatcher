@@ -82,6 +82,14 @@ ex:
 bash ./stealwatcher.sh w44
 ```
 
+By default, it takes the current year of the machine. But you can specifiy a year as a second argument. 
+
+Ex:
+
+```sh
+bash ./stealwatcher.sh google 1997
+```
+
 That's it ! 🎊
 
 
