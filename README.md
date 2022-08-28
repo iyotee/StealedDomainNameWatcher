@@ -71,7 +71,24 @@ No Prerequisities !
 git clone https://github.com/iyotee/StealedDomainNameWatcher.git && cd StealedDomainNameWatcher
 ```
 
+2.
+Create telegram bot
+To send a message to Telegram group or channel, you should first create your own bot. Just open Telegram, find @BotFather and type /start. Then follow instructions to create bot and get token to access the HTTP API.
 
+3.Create Channel
+Create a new Channel in Telegram and add your bot as a member. So your bot could send messages to the Channel.
+
+In order to get Channel Id, first, post any message to the Channel ( like "test" ). Then use this link template to get Channel Id:
+
+https://api.telegram.org/bot<YourBOTToken>/getUpdates
+
+4. edit your telegram-send.sh with you channel id
+
+```sh
+nano telegram-send.sh
+```
+
+Change GROUP_ID and BOT_TOKEN with your own credentials and exit with ctrl+xy and enter. 
 
 ## Usage
 bash ./stealwatcher.sh DOMAIN
