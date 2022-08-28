@@ -11,10 +11,6 @@ TMPDIR='/tmp/stealwatcher'
 REPORT_FILE="${TMPDIR}/report_${NAME_TO_CHECK}.txt"
 WHOIS_FILTER='Creation'
 
-FROM='Stealwatcher'
-TO='jeremy.noverraz@gmail.com'
-SUBJET="Report for ${NAME_TO_CHECK}"
-
 # if the argument DATE_FILTER is empty ( is not entered as the second argument ), then, affect the actual date to the variable
 
 init_datefilter(){
