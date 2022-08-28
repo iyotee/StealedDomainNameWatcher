@@ -4,9 +4,6 @@
 StealedDomainNameWatcher is a batch tool that automatically watch if a domain name you own is stealed 
 
 <p align="center">
-  <a href="https://github.com/Iyotee/StealedDomainNameWatcher">
-    <img src="up.svg" alt="Logo" width="669" height="335">
-  </a>
 
   <h3 align="center">StealedDomainNameWatcher</h3>
 
