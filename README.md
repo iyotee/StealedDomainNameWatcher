@@ -1,6 +1,3 @@
-# StealedDomainNameWatcher
-
-
 StealedDomainNameWatcher is a batch tool that automatically watch if a domain name you own is stealed 
 
 <p align="center">
