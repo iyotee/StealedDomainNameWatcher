@@ -1,11 +1,17 @@
-StealedDomainNameWatcher is a batch tool that automatically watch if a domain name you own is stealed 
+# StealedDomainNameWatcher
+
+
+StealedDomainNameWatcher is a batch tool that automatically watch if a domain name you own is stealed
 
 <p align="center">
+  <a href="https://github.com/Iyotee/StealedDomainNameWatcher">
+    <img src="up.svg" alt="Logo" width="669" height="335">
+  </a>
 
   <h3 align="center">StealedDomainNameWatcher</h3>
 
   <p align="center">
-    uStealedDomainNameWatcher is a batch tool that automatically watch if a domain name you own is stealed 
+    uStealedDomainNameWatcher is a batch tool that automatically watch if a domain name you own is stealed
     <br/>
     <br/>
     <a href="https://github.com/Iyotee/StealedDomainNameWatcher"><strong>Explore the docs »</strong></a>
@@ -39,7 +45,7 @@ StealedDomainNameWatcher is a batch tool that automatically watch if a domain na
 ## About The Project
 
 
-StealedDomainNameWatcher is a batch tool that automatically watch if a domain name you own is stealed 
+StealedDomainNameWatcher is a batch tool that automatically watch if a domain name you own is stealed
 
 
 Here's why:
@@ -75,12 +81,12 @@ git clone https://github.com/iyotee/StealedDomainNameWatcher.git && cd StealedDo
 
 
 ## Usage
-bash ./stealwatcher.sh DOMAIN 
+bash ./stealwatcher.sh DOMAIN
 
-ex: 
+ex:
 
 ```sh
-bash ./stealwatcher.sh w44 
+bash ./stealwatcher.sh w44
 ```
 
 That's it ! 🎊
