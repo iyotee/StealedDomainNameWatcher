@@ -16,7 +16,7 @@ WHOIS_FILTER='Creation'
 init_datefilter(){
 	if [[ -z ${DATE_FILTER} ]]
 	then
-		DATE_FILTER=$(date +"%Y-%m-%d")
+		DATE_FILTER=$(date +"%Y")
 	fi
 }
 
