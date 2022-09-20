@@ -68,7 +68,6 @@ create_report(){
 			echo "##### Domain: ${NAME_TO_CHECK}${EXTENSION} -> nothing to do ... ##### "
 		fi
 	done
-
 }
 
 telegram_report(){
